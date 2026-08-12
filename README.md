@@ -1,1 +1,1 @@
-# portfolio
+Official personal portfolio showcasing my work in web development, JavaScript programming, software projects, robotics, electronics, and STEM education. The website presents my projects, technical skills, research, educational activities, and technology-related work in one professional platform.
